@@ -2,8 +2,8 @@
 
 ## [Our Team Page](/admin/team.md)
 
-<a href="https://Andrewphanguyen.github.io/Andrewphanguyen/source/homepage/homepage.html" target="_blank">Dev Journal</a>
-<a href="https://Andrewphanguyen.github.io/Andrewphanguyen/js-doc/index.html" target="_blank">Documentation</a>
+<a href="https://Andrewphanguyen.github.io/Andrewphanguyen/source/homepage/homepage.html">Dev Journal</a>
+<a href="https://Andrewphanguyen.github.io/Andrewphanguyen/js-doc/index.html">Documentation</a>
 
 [Public Video](https://youtu.be/O4BMl-_iPNE)\
 [Private Video](https://youtu.be/NjnCfApxb44)
